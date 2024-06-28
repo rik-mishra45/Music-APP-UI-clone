@@ -1,0 +1,19 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.navbar navbar-expand-lg {
+    background-color:rgb(242, 222, 222);
+    display:flex;
+    justify-content: center;
+}
+.navbar-brand{
+    background-color:white;
+    border-radius: 1rem ;
+    border:1px solid white;
+    box-shadow: 0.3em 0.3em 0.3em rgb(218, 203, 203);
+}
+body{
+    background-color:rgb(242, 222, 222);
+}
